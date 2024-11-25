@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
   <diagram name="Page-1" id="L5AAty2iTiUjGnJ2szrN">
-    <mxGraphModel>
+    <mxGraphModel dx="1430" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="y7cU_oLe56NQMcDfsP9i-1" value="Informations-model" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="y7cU_oLe56NQMcDfsP9i-2" value="Datamodel" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="y7cU_oLe56NQMcDfsP9i-4" value="Kontekst-diagram" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="y7cU_oLe56NQMcDfsP9i-5" value="Data-flow" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="120" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
