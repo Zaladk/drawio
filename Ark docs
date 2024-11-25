@@ -5,16 +5,31 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="y7cU_oLe56NQMcDfsP9i-1" value="Informations-model" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
-          <mxGeometry x="240" y="160" width="120" height="160" as="geometry" />
+          <mxGeometry x="280" y="160" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="y7cU_oLe56NQMcDfsP9i-2" value="Datamodel" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
-          <mxGeometry x="240" y="400" width="120" height="160" as="geometry" />
+          <mxGeometry x="280" y="400" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="y7cU_oLe56NQMcDfsP9i-4" value="Kontekst-diagram" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="120" height="160" as="geometry" />
+          <mxGeometry x="80" y="80" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="y7cU_oLe56NQMcDfsP9i-5" value="Data-flow" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
-          <mxGeometry x="40" y="320" width="120" height="160" as="geometry" />
+          <mxGeometry x="80" y="320" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="y7cU_oLe56NQMcDfsP9i-6" value="Product vision&lt;div&gt;(Scrum format)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="y7cU_oLe56NQMcDfsP9i-7" value="Brgerrejse" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
+          <mxGeometry x="880" y="80" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="y7cU_oLe56NQMcDfsP9i-8" value="Forretningsprocesser&lt;div&gt;(levels)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
+          <mxGeometry x="880" y="320" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="y7cU_oLe56NQMcDfsP9i-9" value="Scope&lt;div&gt;(level 0 - epics)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="y7cU_oLe56NQMcDfsP9i-12" value="Artifacts" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
