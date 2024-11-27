@@ -69,8 +69,8 @@
             <mxPoint x="424.25" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VAO1xHc-wEqoA3QT3B27-28" value="Understøttelse af beregning og opkrævning af afgift på husdyr og lavbunds-jorde" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;" parent="1" vertex="1">
-          <mxGeometry x="53" y="83" width="87" height="100" as="geometry" />
+        <mxCell id="VAO1xHc-wEqoA3QT3B27-28" value="Understøttelse af beregning og opkrævning af afgift på husdyr og lavbunds-jorde i samarbejde mellem SGAV og SKFV." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;" parent="1" vertex="1">
+          <mxGeometry x="53" y="83" width="87" height="137" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-31" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="VAO1xHc-wEqoA3QT3B27-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -93,7 +93,7 @@
         <mxCell id="VAO1xHc-wEqoA3QT3B27-39" value="Satser" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="285.25" y="431" width="42" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VAO1xHc-wEqoA3QT3B27-42" value="Berigede data til udstilling (beregnet afgift) &lt;font color=&quot;#b5739d&quot;&gt;(men til hvilken bruger?)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="VAO1xHc-wEqoA3QT3B27-42" value="Berigede data til udstilling (beregnet afgift) &lt;font color=&quot;#b5739d&quot;&gt;(men til hvilken slutbruger?)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="457.25" y="348" width="162.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-44" value="Data til beregning af afgift" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
