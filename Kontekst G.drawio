@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.1">
   <diagram name="Page-1" id="S5U_yXKKdmuBEsmlaGM5">
-    <mxGraphModel dx="1185" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="399" dy="213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
           <mxGeometry x="667.25" y="598" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-36" value="Indberetning husdyr" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="531.25" y="282" width="75" height="20" as="geometry" />
+          <mxGeometry x="531.25" y="284" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-38" value="Betalings- bekræftelse" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="377.25" y="602" width="75" height="40" as="geometry" />
@@ -110,6 +110,15 @@
         </mxCell>
         <mxCell id="mVkR-Kg8UKBkq0qefMB4-3" value="Data om lavbrundsjorde" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="531.25" y="221" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mVkR-Kg8UKBkq0qefMB4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.993;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="280" />
+            </Array>
+            <mxPoint x="664.654285714286" y="419.37" as="sourcePoint" />
+            <mxPoint x="483.75000000000006" y="280.01" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
