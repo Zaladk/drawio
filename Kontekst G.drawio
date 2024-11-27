@@ -1,70 +1,72 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.1">
   <diagram name="Page-1" id="S5U_yXKKdmuBEsmlaGM5">
-    <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VAO1xHc-wEqoA3QT3B27-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;gradientColor=none;fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="597" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="604.25" y="418" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#3333FF;" parent="1" vertex="1">
-          <mxGeometry x="38.75" y="40" width="760.5" height="560" as="geometry" />
+          <mxGeometry x="44" y="770" width="760.5" height="560" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-1" value="SGAV" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="1" vertex="1">
-          <mxGeometry x="357" y="122" width="120" height="80" as="geometry" />
+          <mxGeometry x="364.25" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-2" value="SKFV" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="1" vertex="1">
-          <mxGeometry x="357" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="364.25" y="418" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VAO1xHc-wEqoA3QT3B27-4" target="VAO1xHc-wEqoA3QT3B27-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-4" value="KEFM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="117" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="124.25" y="418" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-6" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="633" y="329" width="50" height="62" as="geometry" />
+          <mxGeometry x="640.25" y="427" width="50" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="VAO1xHc-wEqoA3QT3B27-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VAO1xHc-wEqoA3QT3B27-7" target="VAO1xHc-wEqoA3QT3B27-1" edge="1">
+        <mxCell id="VAO1xHc-wEqoA3QT3B27-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.993;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="657" y="162" />
+              <mxPoint x="664.59" y="280.37" />
             </Array>
+            <mxPoint x="664.654285714286" y="419.37" as="sourcePoint" />
+            <mxPoint x="483.75000000000006" y="280.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.357;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="VAO1xHc-wEqoA3QT3B27-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="202" as="sourcePoint" />
-            <mxPoint x="401" y="310" as="targetPoint" />
+            <mxPoint x="407.25" y="300" as="sourcePoint" />
+            <mxPoint x="408.25" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryX=0.695;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="204" as="sourcePoint" />
-            <mxPoint x="440.39999999999986" y="319.51999999999987" as="targetPoint" />
+            <mxPoint x="447.25" y="302" as="sourcePoint" />
+            <mxPoint x="447.64999999999986" y="417.51999999999987" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;gradientColor=none;fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="477" y="462" width="120" height="80" as="geometry" />
+          <mxGeometry x="484.25" y="560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-21" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="497" y="472" width="80" height="60" as="geometry" />
+          <mxGeometry x="504.25" y="570" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VAO1xHc-wEqoA3QT3B27-7" target="VAO1xHc-wEqoA3QT3B27-20" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="429" as="sourcePoint" />
+            <mxPoint x="667.25" y="527" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Virk/&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Borger&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="599" y="364" width="120" height="20" as="geometry" />
+          <mxGeometry x="606.25" y="462" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-23" value="Pengeinst." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="476.5" y="500" width="120" height="20" as="geometry" />
+          <mxGeometry x="483.75" y="598" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VAO1xHc-wEqoA3QT3B27-20" target="VAO1xHc-wEqoA3QT3B27-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="477" y="402" as="sourcePoint" />
-            <mxPoint x="417" y="482" as="targetPoint" />
+            <mxPoint x="484.25" y="500" as="sourcePoint" />
+            <mxPoint x="424.25" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-28" value="Understøttelse af beregning og opkrævning af afgift på husdyr og lavbunds-jorde" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;" parent="1" vertex="1">
@@ -72,33 +74,42 @@
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-31" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="VAO1xHc-wEqoA3QT3B27-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="477" y="359.66666666666674" as="sourcePoint" />
-            <mxPoint x="560" y="361" as="targetPoint" />
+            <mxPoint x="484.25" y="457.66666666666674" as="sourcePoint" />
+            <mxPoint x="567.25" y="459" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-34" value="Opkrævning" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="500" y="333" width="75" height="20" as="geometry" />
+          <mxGeometry x="507.25" y="431" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-35" value="Betaling" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="660" y="500" width="75" height="20" as="geometry" />
+          <mxGeometry x="667.25" y="598" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VAO1xHc-wEqoA3QT3B27-36" value="Indberetning husdyr/lavbundsjorde" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="520" y="136" width="75" height="20" as="geometry" />
+        <mxCell id="VAO1xHc-wEqoA3QT3B27-36" value="Indberetning husdyr" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="531.25" y="282" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-38" value="Betalings- bekræftelse" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="370" y="504" width="75" height="40" as="geometry" />
+          <mxGeometry x="377.25" y="602" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-39" value="Satser" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="278" y="333" width="42" height="20" as="geometry" />
+          <mxGeometry x="285.25" y="431" width="42" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VAO1xHc-wEqoA3QT3B27-42" value="Berigede data til udstilling (afgiftsum)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="450" y="250" width="130" height="20" as="geometry" />
+        <mxCell id="VAO1xHc-wEqoA3QT3B27-42" value="Berigede data til udstilling (beregnet afgift) &lt;font color=&quot;#b5739d&quot;&gt;(men til hvilken bruger?)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="457.25" y="348" width="162.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-44" value="Data til beregning af afgift" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="291" y="250" width="100" height="20" as="geometry" />
+          <mxGeometry x="298.25" y="348" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-45" value="Context, nov.2024" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="53" y="50" width="117" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mVkR-Kg8UKBkq0qefMB4-1" value="Geodatast." style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="603.75" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mVkR-Kg8UKBkq0qefMB4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.009;entryY=0.307;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;" edge="1" parent="1" source="mVkR-Kg8UKBkq0qefMB4-1" target="VAO1xHc-wEqoA3QT3B27-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mVkR-Kg8UKBkq0qefMB4-3" value="Data om lavbrundsjorde" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="531.25" y="221" width="75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
