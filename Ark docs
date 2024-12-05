@@ -1,37 +1,37 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="L5AAty2iTiUjGnJ2szrN">
-    <mxGraphModel dx="2810" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1928" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="y7cU_oLe56NQMcDfsP9i-1" value="Informations-model" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
+        <mxCell id="y7cU_oLe56NQMcDfsP9i-1" value="Informations-model" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" parent="1" vertex="1">
           <mxGeometry x="280" y="160" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y7cU_oLe56NQMcDfsP9i-2" value="Datamodel&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(logisk - fysisk)&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
+        <mxCell id="y7cU_oLe56NQMcDfsP9i-2" value="Datamodel&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(logisk - fysisk)&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" parent="1" vertex="1">
           <mxGeometry x="280" y="400" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y7cU_oLe56NQMcDfsP9i-4" value="Kontekst-diagram" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
+        <mxCell id="y7cU_oLe56NQMcDfsP9i-4" value="Kontekst-diagram" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y7cU_oLe56NQMcDfsP9i-5" value="Data-flow" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
+        <mxCell id="y7cU_oLe56NQMcDfsP9i-5" value="Data-flow" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" parent="1" vertex="1">
           <mxGeometry x="80" y="320" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y7cU_oLe56NQMcDfsP9i-6" value="Product vision&lt;div&gt;(Scrum format)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
+        <mxCell id="y7cU_oLe56NQMcDfsP9i-6" value="Product vision&lt;div&gt;(Scrum format)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" parent="1" vertex="1">
           <mxGeometry x="480" y="80" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y7cU_oLe56NQMcDfsP9i-7" value="Brugerrejse" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
+        <mxCell id="y7cU_oLe56NQMcDfsP9i-7" value="Brugerrejse" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" parent="1" vertex="1">
           <mxGeometry x="680" y="120" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y7cU_oLe56NQMcDfsP9i-8" value="Forretningsprocesser&lt;div&gt;(levels)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
+        <mxCell id="y7cU_oLe56NQMcDfsP9i-8" value="Forretningsprocesser&lt;div&gt;(levels)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" parent="1" vertex="1">
           <mxGeometry x="680" y="360" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y7cU_oLe56NQMcDfsP9i-9" value="Scope&lt;div&gt;(level 0 - epics)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
+        <mxCell id="y7cU_oLe56NQMcDfsP9i-9" value="Scope&lt;div&gt;(level 0 - epics)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" parent="1" vertex="1">
           <mxGeometry x="480" y="280" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y7cU_oLe56NQMcDfsP9i-12" value="Artifacts" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="y7cU_oLe56NQMcDfsP9i-12" value="Artifacts - idegenerering" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="40" y="20" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="y7cU_oLe56NQMcDfsP9i-14" value="Feature roadmap&lt;div&gt;(rækkefølge)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" vertex="1" parent="1">
+        <mxCell id="y7cU_oLe56NQMcDfsP9i-14" value="Feature roadmap&lt;div&gt;(rækkefølge)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;" parent="1" vertex="1">
           <mxGeometry x="480" y="480" width="120" height="160" as="geometry" />
         </mxCell>
       </root>
