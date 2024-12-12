@@ -5,7 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="26mp382JNPEK_qJLQVzP-1" value="A business strategy is not a strategy without and IT strategy witch need a EA strategy to last" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=4;spacingLeft=4;spacingBottom=4;spacingRight=4;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="400" height="60" as="geometry" />
+          <mxGeometry x="40" y="40" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JG2JecU0DjmPKJwb5VES-2" value="EA strategy" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=4;spacingLeft=4;spacingBottom=4;spacingRight=4;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JG2JecU0DjmPKJwb5VES-3" value="Solution strategy" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=4;spacingLeft=4;spacingBottom=4;spacingRight=4;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JG2JecU0DjmPKJwb5VES-4" value="Solution strategy" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=4;spacingLeft=4;spacingBottom=4;spacingRight=4;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JG2JecU0DjmPKJwb5VES-5" value="&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Gartner defines business capabilities as &quot;what the business needs to do to achieve the business strategy.”&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-weight: 500; font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Business architecture uses business capability modeling&lt;/b&gt;&lt;span style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;, to visualize and influence people, processes, and technologies needed to maximize stakeholder value, achieve organizational goals, and execute on the&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="560" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
