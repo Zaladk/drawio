@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="S5U_yXKKdmuBEsmlaGM5">
-    <mxGraphModel dx="2018" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="VAO1xHc-wEqoA3QT3B27-1" value="SGAV" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="1" vertex="1">
           <mxGeometry x="361.25" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VAO1xHc-wEqoA3QT3B27-2" value="SKFV" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="1" vertex="1">
+        <mxCell id="VAO1xHc-wEqoA3QT3B27-2" value="SKTFV" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="1" vertex="1">
           <mxGeometry x="361.25" y="418" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VAO1xHc-wEqoA3QT3B27-4" target="VAO1xHc-wEqoA3QT3B27-2" edge="1">
@@ -40,10 +40,10 @@
             <mxPoint x="402.0899999999999" y="417.9200000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VAO1xHc-wEqoA3QT3B27-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryX=0.695;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="VAO1xHc-wEqoA3QT3B27-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryX=0.695;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="441.25" y="302" as="sourcePoint" />
-            <mxPoint x="441.64999999999986" y="417.51999999999987" as="targetPoint" />
+            <mxPoint x="442.25" y="302" as="sourcePoint" />
+            <mxPoint x="441.85000000000014" y="417.51999999999987" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;gradientColor=none;fillStyle=auto;" parent="1" vertex="1">
@@ -69,8 +69,8 @@
             <mxPoint x="421.25" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VAO1xHc-wEqoA3QT3B27-28" value="Understøttelse af beregning og opkrævning af afgift på husdyr og lavbunds-jorde i samarbejde mellem SGAV og SKFV." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;" parent="1" vertex="1">
-          <mxGeometry x="50" y="83" width="87" height="137" as="geometry" />
+        <mxCell id="VAO1xHc-wEqoA3QT3B27-28" value="Understøttelse af beregning og opkrævning af afgift på husdyr og lavbunds-jorde i samarbejde mellem SGAV, KEFM og SKTFV." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;" parent="1" vertex="1">
+          <mxGeometry x="50" y="83" width="87" height="157" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-31" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="VAO1xHc-wEqoA3QT3B27-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -78,14 +78,11 @@
             <mxPoint x="564.25" y="459" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VAO1xHc-wEqoA3QT3B27-34" value="Opkrævning" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="504.25" y="431" width="75" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-35" value="Betaling" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="670" y="600" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VAO1xHc-wEqoA3QT3B27-36" value="Indberetning husdyr" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="528.25" y="284" width="75" height="20" as="geometry" />
+        <mxCell id="VAO1xHc-wEqoA3QT3B27-36" value="Indberetning husdyr om&amp;nbsp; (evt. lavbundsjorde)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="528.25" y="284" width="121.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VAO1xHc-wEqoA3QT3B27-38" value="Betalings- bekræftelse" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="350" y="590" width="68.75" height="40" as="geometry" />
@@ -127,10 +124,19 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="Kontekst G.drawio" link="https://github.com/Zaladk/drawio/blob/main/Kontekst G.drawio" id="ZbNU2zITokPqV0wqiK7f-4">
-          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" parent="1" vertex="1">
             <mxGeometry x="38" y="680" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="ymi_cldaX1txMFhSH4fZ-1" value="I daglig tale primært landbrugere" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="726.25" y="433" width="66.75" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="ymi_cldaX1txMFhSH4fZ-2" value="&lt;b&gt;Kontekst.&lt;/b&gt; Der skal opkræves afgifter for husdyr og lavbundsjorde. Det er antageligt to forskellige forretningsflows i SKTFV systemer." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="241.25" y="680" width="558.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ymi_cldaX1txMFhSH4fZ-4" value="To typer opkrævning&lt;div&gt;(1) Husdyr&lt;/div&gt;&lt;div&gt;(2) Lavbund&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="489.5" y="462" width="100.5" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
