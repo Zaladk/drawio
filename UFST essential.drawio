@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
+  <diagram name="Page-1" id="z16zemn-X5-3Zwr33WQD">
+    <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_h60ZhwOk6ilwRgtrD8y-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_h60ZhwOk6ilwRgtrD8y-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_h60ZhwOk6ilwRgtrD8y-4" value="&lt;b&gt;DIAS&lt;/b&gt;&lt;div&gt;-selskabsskat&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_h60ZhwOk6ilwRgtrD8y-5" value="&lt;b&gt;SAP PS&lt;/b&gt;&lt;div&gt;-afgifter&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_h60ZhwOk6ilwRgtrD8y-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="240" y="600" width="160" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_h60ZhwOk6ilwRgtrD8y-3" value="&lt;b&gt;Skattekontoen&lt;/b&gt;&lt;div&gt;-til opkrævning&lt;br&gt;&lt;div&gt;(pt. kun virk., borgere er planlagt)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="_h60ZhwOk6ilwRgtrD8y-10">
+          <mxGeometry width="160" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_h60ZhwOk6ilwRgtrD8y-8" value="DMS&lt;div&gt;-til udstilling/overblik&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_h60ZhwOk6ilwRgtrD8y-10">
+          <mxGeometry x="13.33333333333333" y="90" width="133.33333333333331" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_h60ZhwOk6ilwRgtrD8y-9" value="SAP-DMO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_h60ZhwOk6ilwRgtrD8y-10">
+          <mxGeometry x="13.33333333333333" y="150" width="133.33333333333331" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_h60ZhwOk6ilwRgtrD8y-11" value="&lt;b&gt;DR&lt;/b&gt;&lt;div&gt;-debitor, restance mv.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="150" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
