@@ -4,32 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_h60ZhwOk6ilwRgtrD8y-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_h60ZhwOk6ilwRgtrD8y-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="400" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_h60ZhwOk6ilwRgtrD8y-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_h60ZhwOk6ilwRgtrD8y-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_h60ZhwOk6ilwRgtrD8y-4" value="&lt;b&gt;DIAS&lt;/b&gt;&lt;div&gt;-selskabsskat&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_h60ZhwOk6ilwRgtrD8y-4" value="&lt;b&gt;DIAS&lt;/b&gt;&lt;div&gt;-selskabsskat&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="520" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_h60ZhwOk6ilwRgtrD8y-5" value="&lt;b&gt;SAP PS&lt;/b&gt;&lt;div&gt;-afgifter&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_h60ZhwOk6ilwRgtrD8y-5" value="&lt;b&gt;SAP PS&lt;/b&gt;&lt;div&gt;-afgifter&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="360" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_h60ZhwOk6ilwRgtrD8y-10" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="240" y="600" width="160" height="220" as="geometry" />
+        <mxCell id="_h60ZhwOk6ilwRgtrD8y-10" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="240" y="600" width="160" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="_h60ZhwOk6ilwRgtrD8y-3" value="&lt;b&gt;Skattekontoen&lt;/b&gt;&lt;div&gt;-til opkrævning&lt;br&gt;&lt;div&gt;(pt. kun virk., borgere er planlagt)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="_h60ZhwOk6ilwRgtrD8y-10">
-          <mxGeometry width="160" height="220" as="geometry" />
+        <mxCell id="_h60ZhwOk6ilwRgtrD8y-3" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Skattekontoen&lt;/b&gt;&lt;div&gt;-til opkrævning&lt;br&gt;&lt;div&gt;(pt. kun virk., borgere er planlagt)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="_h60ZhwOk6ilwRgtrD8y-10" vertex="1">
+          <mxGeometry width="160" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="_h60ZhwOk6ilwRgtrD8y-8" value="DMS&lt;div&gt;-til udstilling/overblik&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_h60ZhwOk6ilwRgtrD8y-10">
-          <mxGeometry x="13.33333333333333" y="90" width="133.33333333333331" height="50" as="geometry" />
+        <mxCell id="_h60ZhwOk6ilwRgtrD8y-8" value="DMS&lt;div&gt;-til udstilling/overblik&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="_h60ZhwOk6ilwRgtrD8y-10" vertex="1">
+          <mxGeometry x="13.33333333333333" y="94.0909090909091" width="133.33333333333331" height="52.27272727272727" as="geometry" />
         </mxCell>
-        <mxCell id="_h60ZhwOk6ilwRgtrD8y-9" value="SAP-DMO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_h60ZhwOk6ilwRgtrD8y-10">
-          <mxGeometry x="13.33333333333333" y="150" width="133.33333333333331" height="50" as="geometry" />
+        <mxCell id="_h60ZhwOk6ilwRgtrD8y-9" value="SAP-DMO" style="rounded=0;whiteSpace=wrap;html=1;" parent="_h60ZhwOk6ilwRgtrD8y-10" vertex="1">
+          <mxGeometry x="13.33333333333333" y="156.8181818181818" width="133.33333333333331" height="52.27272727272727" as="geometry" />
         </mxCell>
-        <mxCell id="_h60ZhwOk6ilwRgtrD8y-11" value="&lt;b&gt;DR&lt;/b&gt;&lt;div&gt;-debitor, restance mv.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="160" width="150" height="80" as="geometry" />
+        <mxCell id="_h60ZhwOk6ilwRgtrD8y-11" value="&lt;b&gt;DR&lt;/b&gt;&lt;div&gt;-debitor, restance mv.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="200" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
