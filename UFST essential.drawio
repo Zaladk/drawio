@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_h60ZhwOk6ilwRgtrD8y-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_h60ZhwOk6ilwRgtrD8y-1" value="Adgang via MitID og Nemlogin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_h60ZhwOk6ilwRgtrD8y-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -17,7 +17,7 @@
           <mxGeometry x="480" y="360" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_h60ZhwOk6ilwRgtrD8y-10" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="240" y="600" width="160" height="230" as="geometry" />
+          <mxGeometry x="200" y="600" width="160" height="230" as="geometry" />
         </mxCell>
         <mxCell id="_h60ZhwOk6ilwRgtrD8y-3" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Skattekontoen&lt;/b&gt;&lt;div&gt;-til opkrævning&lt;br&gt;&lt;div&gt;(pt. kun virk., borgere er planlagt)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="_h60ZhwOk6ilwRgtrD8y-10" vertex="1">
           <mxGeometry width="160" height="230" as="geometry" />
