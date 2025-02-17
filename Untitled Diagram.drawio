@@ -5,112 +5,112 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-2" value="Planlægger" style="shape=actor;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="120" y="530" width="40" height="60" as="geometry" />
+          <mxGeometry x="40" y="190" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-3" value="Kontrolpanel&lt;div&gt;Frontend/GUI&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="137" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="lqz_EEA4dAWb-DeIXNUe-4" target="lqz_EEA4dAWb-DeIXNUe-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-4" value="Planlægningssystem&lt;div&gt;Backend/API&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="423" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-5" value="Planmotor&lt;div&gt;Rapidis (GIS)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="423" y="641" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="301" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lqz_EEA4dAWb-DeIXNUe-7" target="lqz_EEA4dAWb-DeIXNUe-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-7" value="Omsorgssystem&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Fx KMD Nexus, Systematic&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="608" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="505" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lqz_EEA4dAWb-DeIXNUe-8" target="lqz_EEA4dAWb-DeIXNUe-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-8" value="Mobilapp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="608" y="641" width="120" height="60" as="geometry" />
+          <mxGeometry x="505" y="301" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-9" value="Google Maps&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Navigation til næste opgave&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="608" y="749" width="120" height="60" as="geometry" />
+          <mxGeometry x="505" y="409" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="849" y="730" as="sourcePoint" />
-            <mxPoint x="761" y="780" as="targetPoint" />
+            <mxPoint x="746" y="390" as="sourcePoint" />
+            <mxPoint x="658" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="849" y="780" />
+              <mxPoint x="746" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-12" value="Omsorgsmedarbejder" style="shape=actor;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="830" y="640" width="40" height="60" as="geometry" />
+          <mxGeometry x="727" y="300" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="547" y="559.58" as="sourcePoint" />
-            <mxPoint x="604" y="560" as="targetPoint" />
+            <mxPoint x="444" y="219.58000000000004" as="sourcePoint" />
+            <mxPoint x="501" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=default;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="171" y="560.5400000000001" as="sourcePoint" />
-            <mxPoint x="228" y="560.96" as="targetPoint" />
+            <mxPoint x="90" y="220.54000000000008" as="sourcePoint" />
+            <mxPoint x="130" y="220.96000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="363" y="559.5200000000001" as="sourcePoint" />
-            <mxPoint x="420" y="559.94" as="targetPoint" />
+            <mxPoint x="260" y="219.5200000000001" as="sourcePoint" />
+            <mxPoint x="317" y="219.94000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="560" as="sourcePoint" />
-            <mxPoint x="850" y="620" as="targetPoint" />
+            <mxPoint x="657" y="220" as="sourcePoint" />
+            <mxPoint x="747" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="770" y="669.58" as="sourcePoint" />
-            <mxPoint x="820" y="669.58" as="targetPoint" />
+            <mxPoint x="667" y="329.58000000000004" as="sourcePoint" />
+            <mxPoint x="717" y="329.58000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-51" value="" style="group;strokeColor=#000000;strokeWidth=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="80" y="840" width="400" height="100" as="geometry" />
+          <mxGeometry x="40" y="500" width="360" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-49" value="•  Præsentation af data hentet fra omsorgssystem&#xa;•  Administration af parametre for udarbejdelse af planer&#xa;•  Præsentation af udarbejdede planer (baseret på data og parameter)&#xa;•  Mulighed for at ”idriftsætte” plan (overføre plan til omsorgssystem)" style="text;whiteSpace=wrap;strokeColor=#000000;fontSize=11;spacing=4;spacingLeft=4;strokeWidth=0;" vertex="1" parent="lqz_EEA4dAWb-DeIXNUe-51">
-          <mxGeometry y="30" width="400" height="70" as="geometry" />
+          <mxGeometry y="30" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-50" value="Kontrolpanel" style="text;whiteSpace=wrap;strokeColor=#000000;fontStyle=1;fillColor=#E6D0DE;fillStyle=solid;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;strokeWidth=0;" vertex="1" parent="lqz_EEA4dAWb-DeIXNUe-51">
-          <mxGeometry width="400" height="30" as="geometry" />
+          <mxGeometry width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-58" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="520" y="970" width="400" height="100" as="geometry" />
+          <mxGeometry x="440" y="630" width="360" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-57" value="Mobilapp" style="text;whiteSpace=wrap;strokeColor=default;fontStyle=1;fillColor=#E6D0DE;fillStyle=solid;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;strokeWidth=0;" vertex="1" parent="lqz_EEA4dAWb-DeIXNUe-58">
-          <mxGeometry width="400" height="30" as="geometry" />
+          <mxGeometry width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-56" value="•  Overblik over kommende opgaver og sager&#xa;•  Registrering af opgaver mv. " style="text;whiteSpace=wrap;strokeColor=#000000;fontSize=11;fontFamily=Helvetica;spacingTop=0;spacing=4;spacingLeft=4;strokeWidth=0;fillColor=default;" vertex="1" parent="lqz_EEA4dAWb-DeIXNUe-58">
-          <mxGeometry y="30" width="400" height="70" as="geometry" />
+          <mxGeometry y="30" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-59" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="80" y="970" width="400" height="150" as="geometry" />
+          <mxGeometry x="40" y="630" width="360" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lqz_EEA4dAWb-DeIXNUe-53" value="•  Udstiller funktionalitet og data til kontrolpanel, herunder lokalt lagrede&#xa;   præferencer&#xa;•  Henter data fra omsorgssystem (opgaver, ressourcer/medarbejdere, &#xa;   Kompetencer mv.)&#xa;•  Faciliterer kald til planlægningsmotor, herunder transformation af data (fx&#xa;   aggregering af opgaver)&#xa;•  Faciliterer returnering af plan til omsorgssystemet (allokering af opgaver på &#xa;   medarbejdere, rækkefølge af opgaveudførelse)" style="text;whiteSpace=wrap;strokeColor=#000000;fontSize=11;spacing=4;spacingLeft=4;strokeWidth=0;" vertex="1" parent="lqz_EEA4dAWb-DeIXNUe-59">
-          <mxGeometry y="28.224564459930342" width="400" height="121.77543554006965" as="geometry" />
+        <mxCell id="lqz_EEA4dAWb-DeIXNUe-53" value="•  Udstiller funktionalitet og data til kontrolpanel, herunder lokalt lagrede&#xa;   præferencer&#xa;•  Henter data fra omsorgssystem (opgaver, ressourcer/medarbejdere, &#xa;   Kompetencer mv.)&#xa;•  Faciliterer kald til planlægningsmotor, herunder transformation&#xa;   af data (fx aggregering af opgaver)&#xa;•  Faciliterer returnering af plan til omsorgssystemet (allokering af&#xa;   opgaver på medarbejdere, rækkefølge af opgaveudførelse)" style="text;whiteSpace=wrap;strokeColor=#000000;fontSize=11;spacing=4;spacingLeft=4;strokeWidth=0;" vertex="1" parent="lqz_EEA4dAWb-DeIXNUe-59">
+          <mxGeometry y="30.10620209059236" width="360" height="129.89379790940762" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-54" value="Planlægningssystem" style="text;whiteSpace=wrap;strokeColor=#000000;fontStyle=1;fillColor=#E6D0DE;fillStyle=solid;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;strokeWidth=0;" vertex="1" parent="lqz_EEA4dAWb-DeIXNUe-59">
-          <mxGeometry width="400" height="30" as="geometry" />
+          <mxGeometry width="360" height="32" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-60" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="520" y="841" width="400" height="100" as="geometry" />
+          <mxGeometry x="440" y="501" width="360" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-61" value="Planmotor" style="text;whiteSpace=wrap;strokeColor=default;fontStyle=1;fillColor=#E6D0DE;fillStyle=solid;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;strokeWidth=0;" vertex="1" parent="lqz_EEA4dAWb-DeIXNUe-60">
-          <mxGeometry width="400" height="30" as="geometry" />
+          <mxGeometry width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-62" value="•  Generering af plan tager 5-10 min&#xa;•  Inputdata (se snitfladebeskrivelsen)&#xa;•  Outputdata (se snitfladebeskrivelsen)" style="text;whiteSpace=wrap;strokeColor=#000000;fontSize=11;fontFamily=Helvetica;spacingTop=0;spacing=4;spacingLeft=4;strokeWidth=0;fillColor=default;" vertex="1" parent="lqz_EEA4dAWb-DeIXNUe-60">
-          <mxGeometry y="30" width="400" height="70" as="geometry" />
+          <mxGeometry y="30" width="360" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
