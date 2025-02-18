@@ -273,7 +273,7 @@
         <mxCell id="12jc8JfUgm8sH9iknQeI-17" value="Gem ændring i DB." style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;labelBackgroundColor=none;startArrow=classic;startFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1660" y="-346" as="sourcePoint" />
-            <mxPoint x="-1540" y="-346" as="targetPoint" />
+            <mxPoint x="-1550" y="-346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="12jc8JfUgm8sH9iknQeI-18" value="Returner fejl" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;curved=0;strokeColor=default;jumpStyle=arc;startFill=1;startArrow=classic;" parent="1" edge="1">
