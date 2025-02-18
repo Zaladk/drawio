@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="dHLGTguul6BB3BgVsBMF">
-    <mxGraphModel dx="1728" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-2" value="Planlægger" style="shape=actor;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="46" y="122" width="40" height="60" as="geometry" />
+          <mxGeometry x="53" y="122" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="shqo9p4cDh4Z7DwYZRIk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="lqz_EEA4dAWb-DeIXNUe-3" target="lqz_EEA4dAWb-DeIXNUe-4">
           <mxGeometry relative="1" as="geometry" />
@@ -54,8 +54,8 @@
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=default;curved=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="152.54000000000008" as="sourcePoint" />
-            <mxPoint x="130" y="152.96000000000004" as="targetPoint" />
+            <mxPoint x="100" y="150.54000000000008" as="sourcePoint" />
+            <mxPoint x="140" y="150.96000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" edge="1">
@@ -106,10 +106,10 @@
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-65" value="•  Generering af plan tager 5-10 min&#xa;•  Inputdata (se snitfladebeskrivelsen)&#xa;•  Outputdata (se snitfladebeskrivelsen)" style="text;whiteSpace=wrap;strokeColor=#000000;fontSize=11;fontFamily=Helvetica;spacingTop=0;spacing=4;spacingLeft=4;strokeWidth=0;fillColor=default;" parent="lqz_EEA4dAWb-DeIXNUe-63" vertex="1">
           <mxGeometry y="30" width="360" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lqz_EEA4dAWb-DeIXNUe-66" value=" Ny infrastruktur og&#xa; nye applikationer" style="text;whiteSpace=wrap;strokeColor=#808080;fontStyle=0;fillColor=none;fillStyle=solid;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="lqz_EEA4dAWb-DeIXNUe-66" value=" Ny infrastruktur og&#xa; nye applikationer" style="text;whiteSpace=wrap;strokeColor=#808080;fontStyle=0;fillColor=none;fillStyle=solid;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="140" y="420" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lqz_EEA4dAWb-DeIXNUe-67" value=" Eksisterende &#xa; applikationer" style="text;whiteSpace=wrap;strokeColor=#808080;fontStyle=0;fillColor=none;fillStyle=solid;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="lqz_EEA4dAWb-DeIXNUe-67" value=" Eksisterende &#xa; applikationer" style="text;whiteSpace=wrap;strokeColor=#808080;fontStyle=0;fillColor=none;fillStyle=solid;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="505" y="420" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-61" value=" Deloitte Plans&#xa; Kontekstdiagram" style="text;whiteSpace=wrap;strokeColor=#36393d;fontStyle=1;fillColor=#eeeeee;fillStyle=solid;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=0;" parent="1" vertex="1">
