@@ -54,8 +54,8 @@
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=default;curved=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="150.54000000000008" as="sourcePoint" />
-            <mxPoint x="140" y="150.96000000000004" as="targetPoint" />
+            <mxPoint x="97" y="150.54000000000008" as="sourcePoint" />
+            <mxPoint x="137" y="150.96000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" edge="1">
@@ -110,10 +110,10 @@
           <mxGeometry x="140" y="420" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lqz_EEA4dAWb-DeIXNUe-67" value=" Eksisterende &#xa; applikationer" style="text;whiteSpace=wrap;strokeColor=#808080;fontStyle=0;fillColor=none;fillStyle=solid;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
-          <mxGeometry x="505" y="420" width="115" height="40" as="geometry" />
+          <mxGeometry x="504" y="420" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lqz_EEA4dAWb-DeIXNUe-61" value=" Deloitte Plans&#xa; Kontekstdiagram" style="text;whiteSpace=wrap;strokeColor=#36393d;fontStyle=1;fillColor=#eeeeee;fillStyle=solid;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="360" height="40" as="geometry" />
+        <mxCell id="lqz_EEA4dAWb-DeIXNUe-61" value=" Deloitte Plans. Kontekstdiagram" style="text;whiteSpace=wrap;strokeColor=#36393d;fontStyle=1;fillColor=#eeeeee;fillStyle=solid;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="60" width="760" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
