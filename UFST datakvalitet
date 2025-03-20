@@ -7,7 +7,7 @@
         <mxCell id="Gd1dc5dL1jZyrAC9S5JX-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="880" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="LJUw9Rz2ez-SUTscFLai-11" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="6DDOyeuXBNr1eNAv0twe-1" target="6DDOyeuXBNr1eNAv0twe-2">
+        <mxCell id="LJUw9Rz2ez-SUTscFLai-11" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="6DDOyeuXBNr1eNAv0twe-1" target="6DDOyeuXBNr1eNAv0twe-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6DDOyeuXBNr1eNAv0twe-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Data om lavbundsjorde&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
@@ -36,13 +36,13 @@
             <mxPoint x="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJUw9Rz2ez-SUTscFLai-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="LJUw9Rz2ez-SUTscFLai-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="466" y="270" as="sourcePoint" />
             <mxPoint x="776" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJUw9Rz2ez-SUTscFLai-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Data afstemt efter afslutttet&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;indsigelse&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(ønske: data tilbageholdes)&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LJUw9Rz2ez-SUTscFLai-1">
+        <mxCell id="LJUw9Rz2ez-SUTscFLai-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Data afstemt efter&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;afslutttet&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 10px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;indsigelse&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(ønske: data tilbageholdes)&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LJUw9Rz2ez-SUTscFLai-1" vertex="1" connectable="0">
           <mxGeometry x="-0.0581" y="-1" relative="1" as="geometry">
             <mxPoint x="8" y="-1" as="offset" />
           </mxGeometry>
@@ -64,7 +64,7 @@
             <mxPoint x="776" y="313.80285714285714" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJUw9Rz2ez-SUTscFLai-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Data valideret efter&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;dialog med borger&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="6DDOyeuXBNr1eNAv0twe-15">
+        <mxCell id="LJUw9Rz2ez-SUTscFLai-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Data valideret efter&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;dialog med borger&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="6DDOyeuXBNr1eNAv0twe-15" vertex="1" connectable="0">
           <mxGeometry x="-0.0225" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
