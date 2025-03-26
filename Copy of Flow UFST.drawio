@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jPUYg1EqjeXe6Diemlhv-1" value="Data entry&lt;div&gt;User entry (IAM)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;strokeColor=#E6E6E6;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;fontColor=#000066;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="277" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="273" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jPUYg1EqjeXe6Diemlhv-2" value="Kernesystem" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;strokeColor=#E6E6E6;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;fontColor=#000066;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="440" y="160" width="120" height="40" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jPUYg1EqjeXe6Diemlhv-8" value="Eksisterende WS/API tilpasses" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="277" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="271" y="240" width="127" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I2_qbIUxM6kLmOSu3rbW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#000000;dashed=1;dashPattern=1 2;" parent="1" source="jPUYg1EqjeXe6Diemlhv-9" target="jPUYg1EqjeXe6Diemlhv-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I2_qbIUxM6kLmOSu3rbW-9" value="Eksisterende WS/API tilpasses" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="277" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="271" y="440" width="127" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I2_qbIUxM6kLmOSu3rbW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#000000;dashed=1;dashPattern=1 2;" parent="1" source="I2_qbIUxM6kLmOSu3rbW-11" target="I2_qbIUxM6kLmOSu3rbW-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
