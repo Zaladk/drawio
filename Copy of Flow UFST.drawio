@@ -4,16 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jPUYg1EqjeXe6Diemlhv-1" value="Data entry&lt;div&gt;User entry (IAM)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;strokeColor=#E6E6E6;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;fontColor=#000066;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="jPUYg1EqjeXe6Diemlhv-1" value="Data entry&lt;div&gt;User entry (IAM)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=#E6E6E6;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;fontColor=#000066;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="273" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jPUYg1EqjeXe6Diemlhv-2" value="Kernesystem" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;strokeColor=#E6E6E6;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;fontColor=#000066;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="jPUYg1EqjeXe6Diemlhv-2" value="Kernesystem" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=#E6E6E6;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;fontColor=#000066;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="440" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jPUYg1EqjeXe6Diemlhv-3" value="Opkrævning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;strokeColor=#E6E6E6;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;fontColor=#000066;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="jPUYg1EqjeXe6Diemlhv-3" value="Opkrævning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=#E6E6E6;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;fontColor=#000066;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="598" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jPUYg1EqjeXe6Diemlhv-4" value="Forsendelse&lt;div&gt;Meddelelse&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;strokeColor=#E6E6E6;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;fontColor=#000066;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="jPUYg1EqjeXe6Diemlhv-4" value="Forsendelse&lt;div&gt;Meddelelse&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=#E6E6E6;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;fontColor=#000066;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="758" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jPUYg1EqjeXe6Diemlhv-6" value="Udvikling&lt;div&gt;Test&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;align=left;strokeColor=none;fillColor=none;spacing=1;verticalAlign=middle;" parent="1" vertex="1">
@@ -31,7 +31,7 @@
         <mxCell id="jPUYg1EqjeXe6Diemlhv-9" value="SAP PS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#67AB9F;" parent="1" vertex="1">
           <mxGeometry x="440" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jPUYg1EqjeXe6Diemlhv-10" value="Udstilling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;strokeColor=#E6E6E6;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;fontColor=#000066;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="jPUYg1EqjeXe6Diemlhv-10" value="Udstilling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6666FF;strokeColor=#E6E6E6;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;fontColor=#000066;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="922" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I2_qbIUxM6kLmOSu3rbW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#000000;dashed=1;dashPattern=1 2;" parent="1" source="jPUYg1EqjeXe6Diemlhv-11" target="jPUYg1EqjeXe6Diemlhv-12" edge="1">
