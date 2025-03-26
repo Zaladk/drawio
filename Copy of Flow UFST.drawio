@@ -46,7 +46,7 @@
         <mxCell id="jPUYg1EqjeXe6Diemlhv-14" value="Komponentvalg&lt;div&gt;uafklaret&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="922" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I2_qbIUxM6kLmOSu3rbW-8" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Scenarie 1b&lt;/b&gt;&lt;div&gt;&lt;u&gt;CPR&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Lavbund&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[beregning sker hos SGAV]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
+        <mxCell id="I2_qbIUxM6kLmOSu3rbW-8" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Scenarie 1b&lt;/b&gt;&lt;div&gt;&lt;u&gt;CPR&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Lavbund&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;[beregning sker hos SGAV]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
           <mxGeometry x="40" y="402" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="I2_qbIUxM6kLmOSu3rbW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;strokeColor=#000000;dashed=1;dashPattern=1 2;" parent="1" source="I2_qbIUxM6kLmOSu3rbW-9" target="I2_qbIUxM6kLmOSu3rbW-11" edge="1">
@@ -133,7 +133,7 @@
         <mxCell id="9XvFDA7prS1c_WqJo-tQ-24" value="?" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=10;fillColor=#E6D0DE;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="921" y="523" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9XvFDA7prS1c_WqJo-tQ-25" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Scenarie 1a&lt;/b&gt;&lt;div&gt;&lt;u&gt;CVR&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Lavbund&lt;/div&gt;&lt;div&gt;Husdyr&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[konsoliderede data fra SGAV, iflg. UFST kravspec.]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+        <mxCell id="9XvFDA7prS1c_WqJo-tQ-25" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Scenarie 1a&lt;/b&gt;&lt;div&gt;&lt;u&gt;CVR&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Lavbund&lt;/div&gt;&lt;div&gt;Husdyr&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;[konsoliderede data fra SGAV, iflg. UFST kravspec.]&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;spacing=4;" vertex="1" parent="1">
           <mxGeometry x="40" y="222" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="9XvFDA7prS1c_WqJo-tQ-26" value="Udvikling&lt;br&gt;Test" style="rounded=0;whiteSpace=wrap;dashed=1;dashPattern=1 2;align=left;strokeColor=none;fillColor=none;spacing=0;verticalAlign=middle;html=1;" vertex="1" parent="1">
