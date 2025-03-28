@@ -41,7 +41,7 @@
           <mxGeometry x="758" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jPUYg1EqjeXe6Diemlhv-14" value="Komponentvalg&lt;div&gt;uafklaret&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="922" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="922" y="261" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I2_qbIUxM6kLmOSu3rbW-8" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Scenarie 1b&lt;/b&gt;&lt;div&gt;&lt;u&gt;CPR&lt;/u&gt;&lt;/div&gt;&lt;div&gt;Lavbund&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Anget: Beregning sker hos SGAV.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#CDA2BE;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="40" y="401" width="120" height="140" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="760" y="421" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RFjUGFnFEoxHwDggdkSX-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Slut-&lt;/b&gt;bruger&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="922" y="280" width="120" height="20" as="geometry" />
+          <mxGeometry x="922" y="301" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RFjUGFnFEoxHwDggdkSX-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Systembruger&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="277" y="280" width="120" height="20" as="geometry" />
@@ -71,10 +71,10 @@
           <mxGeometry x="277" y="461" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RFjUGFnFEoxHwDggdkSX-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Slut-&lt;/b&gt;bruger&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="921" y="461" width="120" height="20" as="geometry" />
+          <mxGeometry x="921" y="480" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RFjUGFnFEoxHwDggdkSX-5" value="Komponentvalg&lt;div&gt;uafklaret&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="921" y="421" width="120" height="40" as="geometry" />
+          <mxGeometry x="921" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9XvFDA7prS1c_WqJo-tQ-1" value="S" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=10;fillColor=#E6E6E6;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="277" y="320" width="30" height="20" as="geometry" />
@@ -136,7 +136,7 @@
         <mxCell id="9XvFDA7prS1c_WqJo-tQ-27" value="&lt;div&gt;&lt;font style=&quot;color: rgb(77, 77, 77);&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Noter&lt;/b&gt;:&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-UFST tilpasser ikke bare én komponent. Oftest - som her - tilpasser vi flere komponenter i et flow.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(77, 77, 77);&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Det er nødvigt med omfattende tests - særligt på løsninger, som håndterer automatiske &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;udbetalinger/opkrævninger.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(77, 77, 77);&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-Uddybende om test. Vi laver fx fuldt regressionstest. Dvs. både&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;color: rgb(77, 77, 77);&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1. Opfører den nye ændring sig på den forventede, ønskede måde?&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;color: rgb(77, 77, 77);&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2. Påvirkes andre funktioner, selv elementer, der tilsyneladende ikke har noget med ændringen &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; at gøre?&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=4;spacing=4;strokeColor=#B3B3B3;fillColor=none;spacingBottom=2;spacingTop=4;" parent="1" vertex="1">
           <mxGeometry x="40" y="580" width="620" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="9XvFDA7prS1c_WqJo-tQ-28" value="&lt;font style=&quot;color: rgb(181, 115, 157);&quot;&gt;&amp;nbsp;Scenarier. Grøn Trepart, Landbrug, SKTFV.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;align=left;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="9XvFDA7prS1c_WqJo-tQ-28" value="&lt;font style=&quot;color: rgb(77, 77, 77);&quot;&gt;&amp;nbsp;Scenarier. Grøn Trepart, Landbrug, SKTFV.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;align=left;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="41" y="81" width="620" height="38" as="geometry" />
         </mxCell>
         <mxCell id="9XvFDA7prS1c_WqJo-tQ-30" value="&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;Sizing:&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font face=&quot;Helvetica&quot;&gt;Udvikling&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;Test&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp; &lt;font style=&quot;font-size: 9px;&quot;&gt;E2E&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;dashed=1;dashPattern=1 2;align=left;strokeColor=none;fillColor=none;spacing=0;verticalAlign=middle;html=1;" parent="1" vertex="1">
