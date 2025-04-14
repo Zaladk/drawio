@@ -58,8 +58,8 @@
         <mxCell id="YO7A1a3UFihamz9B0ZOD-8" value="&lt;b&gt;AWS Glacier&lt;/b&gt;&lt;div&gt;Under S3, er til arkivering og backup, low cost&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-9" value="&lt;b&gt;AWS Inspector&lt;/b&gt;&lt;div&gt;undersøger mønstre i workload og mulige sårbarheder&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="60" width="210" height="80" as="geometry" />
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-9" value="&lt;b&gt;AWS Inspector&lt;/b&gt;&lt;div&gt;undersøger mønstre i workload og mulige sårbarheder, forbrug mere end performance&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="60" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
