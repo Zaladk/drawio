@@ -76,8 +76,11 @@
         <mxCell id="YO7A1a3UFihamz9B0ZOD-14" value="Key pair = encryption = public and private key&lt;div&gt;AWS access = programmatic access = certifikat&lt;/div&gt;&lt;div&gt;Host er større end instance, og host giver mulighed for BYOL (license)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="640" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-15" value="&lt;b&gt;Amazon Route 53&lt;/b&gt;&lt;div&gt;Til DNS, domain name service, routing users&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-15" value="&lt;b&gt;Amazon Route 53 &lt;/b&gt;(L2 product)&lt;div&gt;Til DNS, domain name service, routing users&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="180" width="145" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-16" value="&lt;b&gt;Amazon Snowball&lt;/b&gt;&lt;div&gt;&lt;b&gt;Hardware til at overføre data&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="70" width="145" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
