@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="VCvHZR2WXto5X7LXfwCY">
-    <mxGraphModel dx="1316" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1723" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,11 +22,11 @@
         <mxCell id="N-OLMTnW74gIgdQo4pyC-7" value="&lt;b&gt;Amazon&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;S3&lt;/b&gt;&lt;div&gt;&lt;div&gt;-object level storage, dvs. forskellige typer og ustruktureret&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N-OLMTnW74gIgdQo4pyC-8" value="&lt;b&gt;AWS DynamoDB&lt;/b&gt;&lt;div&gt;serverless, noSQL, managed, men stadig structureret, key-value format&lt;/div&gt;&lt;div&gt;(double)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="585" y="590" width="120" height="110" as="geometry" />
+        <mxCell id="N-OLMTnW74gIgdQo4pyC-8" value="&lt;b&gt;AWS DynamoDB&lt;/b&gt;&lt;div&gt;serverless, noSQL, managed, men stadig structureret, key-value format&lt;/div&gt;&lt;div&gt;(double)&lt;/div&gt;&lt;div&gt;Kræver db cluster&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="585" y="540" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="N-OLMTnW74gIgdQo4pyC-9" value="&lt;b&gt;Amazon (RDS)&lt;/b&gt;&lt;div&gt;Relationel&lt;/div&gt;&lt;div&gt;(managed)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="585" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="585" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N-OLMTnW74gIgdQo4pyC-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Virtual private cloud&lt;div&gt;&lt;br&gt;&lt;div&gt;Subnet&amp;nbsp; /&amp;nbsp; Subnet&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="240" width="230" height="60" as="geometry" />
@@ -34,53 +34,56 @@
         <mxCell id="N-OLMTnW74gIgdQo4pyC-11" value="Scaling er noget man aktivere/bruger/gør" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-1" value="&lt;b&gt;Amazon EBS&lt;/b&gt;&lt;div&gt;Elastic Block Storage, ensartet og indekseret, hurtigt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-1" value="&lt;b&gt;Amazon EBS&lt;/b&gt;&lt;div&gt;Elastic Block Storage, ensartet og indekseret, hurtigt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="414" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-2" value="&lt;b&gt;AWS Instance Store&lt;br&gt;&lt;/b&gt;&lt;div&gt;Fysisk forbundet til EC2. Typisk Cache.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-2" value="&lt;b&gt;AWS Instance Store&lt;br&gt;&lt;/b&gt;&lt;div&gt;Fysisk forbundet til EC2. Typisk Cache.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-3" value="&lt;b&gt;Amazon EFS&lt;/b&gt;&lt;div&gt;Elastic file system&lt;/div&gt;&lt;div&gt;Serverless - ingen adm.&lt;/div&gt;&lt;div&gt;(Filer, ikke objecter)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-3" value="&lt;b&gt;Amazon EFS&lt;/b&gt;&lt;div&gt;Elastic file system&lt;/div&gt;&lt;div&gt;Serverless - ingen adm.&lt;/div&gt;&lt;div&gt;(Filer, ikke objecter)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-4" value="&lt;b&gt;AWS Config (L1).&lt;/b&gt;&lt;div&gt;Et &lt;u&gt;view&lt;/u&gt; på dine ressourcer (snapshot)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-4" value="&lt;b&gt;AWS Config (L1).&lt;/b&gt;&lt;div&gt;Et &lt;u&gt;view&lt;/u&gt; på dine ressourcer (snapshot)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="600" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-5" value="Elasticitet er har glæde af" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-5" value="Elasticitet er har glæde af" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-6" value="AWS Cost Explorer, hvad kommer det til at koste, rapporter, hvad koster hver instans" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-6" value="AWS Cost Explorer, hvad kommer det til at koste, rapporter, hvad koster hver instans" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="330" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-7" value="AWS Budget, alert og forecast (automatisk) på prisen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-7" value="AWS Budget, alert og forecast (automatisk) på prisen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="400" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-8" value="&lt;b&gt;Amazon SNS&lt;/b&gt;&lt;div&gt;Simple notificatin service (SMS)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="720" width="120" height="90" as="geometry" />
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-8" value="&lt;b&gt;Amazon SNS&lt;/b&gt;&lt;div&gt;Simple notificatin service (SMS)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="741" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-9" value="&lt;b&gt;AWS Inspector&lt;/b&gt;&lt;div&gt;undersøger mønstre i workload og mulige sårbarheder, forbrug mere end performance&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-9" value="&lt;b&gt;AWS Inspector&lt;/b&gt;&lt;div&gt;undersøger mønstre i workload og mulige sårbarheder, forbrug mere end performance&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="60" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-10" value="DR = disaster recovery" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-10" value="DR = disaster recovery" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="880" y="560" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-11" value="&lt;b&gt;AWS Glacier&lt;/b&gt;&lt;div&gt;Under S3, er til arkivering og backup, low cost&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-11" value="&lt;b&gt;AWS Glacier&lt;/b&gt;&lt;div&gt;Under S3, er til arkivering og backup, low cost&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-12" value="&lt;b&gt;Amazon SQS&lt;/b&gt;&lt;div&gt;Message &lt;u&gt;Queuing &lt;/u&gt;Service, helst asynkron&lt;/div&gt;&lt;div&gt;(managed)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="700" width="120" height="90" as="geometry" />
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-12" value="&lt;b&gt;Amazon SQS&lt;/b&gt;&lt;div&gt;Message &lt;u&gt;Queuing &lt;/u&gt;Service, helst asynkron&lt;/div&gt;&lt;div&gt;(managed)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="721" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-13" value="&lt;b&gt;Amazon SES&lt;/b&gt;&lt;div&gt;Simple email service&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="737" width="120" height="90" as="geometry" />
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-13" value="&lt;b&gt;Amazon SES&lt;/b&gt;&lt;div&gt;Simple email service&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="758" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-14" value="Key pair = encryption = public and private key&lt;div&gt;AWS access = programmatic access = certifikat&lt;/div&gt;&lt;div&gt;Host er større end instance, og host giver mulighed for BYOL (license)&lt;/div&gt;&lt;div&gt;Amazon EMR = Big data platform&lt;/div&gt;&lt;div&gt;Amazon MQ = message broker (managed), bruges af applikationer til at kommunikere)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cognito =Authen og Autho. system&lt;/div&gt;&lt;div&gt;Aurora = relations database (double)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="640" width="240" height="200" as="geometry" />
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-14" value="Key pair = encryption = public and private key&lt;div&gt;AWS access key&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;= programmatic access = certifikat&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Host er større end instance, og host giver mulighed for BYOL (license)&lt;/div&gt;&lt;div&gt;Amazon EMR = Big data platform&lt;/div&gt;&lt;div&gt;Amazon MQ = message broker (managed), bruges af applikationer til at kommunikere sammen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Lightsail = er en mini VPC (EC2 er den dyrere løsning, som kan mere)&lt;/div&gt;&lt;div&gt;Cognito =Authen og Autho. system&lt;/div&gt;&lt;div&gt;AMI = virtual server, template (Amazon Machine Image)&lt;/div&gt;&lt;div&gt;ACL = Access control list&lt;/div&gt;&lt;div&gt;Hypervisor = creating multiple Virtual machines on a single psysical machine&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="640" width="240" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-15" value="&lt;b&gt;Amazon Route 53 &lt;/b&gt;(L2 product)&lt;div&gt;Til DNS, domain name service, routing users&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-15" value="&lt;b&gt;Amazon Route 53 &lt;/b&gt;(L2 product)&lt;div&gt;Til DNS, domain name service, routing users&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="585" y="180" width="145" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-16" value="&lt;b&gt;Amazon Snowball&lt;/b&gt;&lt;div&gt;Hardware til at overføre data, sendes fysisk frem og tilbage&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-16" value="&lt;b&gt;Amazon Snowball&lt;/b&gt;&lt;div&gt;Hardware til at overføre data, sendes fysisk frem og tilbage&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="585" y="70" width="145" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8-zyi2WQNixAOmmWoAHl-1" value="&lt;b&gt;Aurora&lt;/b&gt;&lt;div&gt;Mere old school sql db/postgres.&lt;/div&gt;&lt;div&gt;(double)&lt;/div&gt;&lt;div&gt;Kræver db cluster&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="650" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
