@@ -62,7 +62,7 @@
           <mxGeometry x="300" y="60" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YO7A1a3UFihamz9B0ZOD-10" value="DR = disaster recovery" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="880" y="640" width="240" height="60" as="geometry" />
+          <mxGeometry x="880" y="560" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YO7A1a3UFihamz9B0ZOD-11" value="&lt;b&gt;AWS Glacier&lt;/b&gt;&lt;div&gt;Under S3, er til arkivering og backup, low cost&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="560" width="120" height="60" as="geometry" />
@@ -72,6 +72,12 @@
         </mxCell>
         <mxCell id="YO7A1a3UFihamz9B0ZOD-13" value="&lt;b&gt;Amazon SES&lt;/b&gt;&lt;div&gt;Simple email service&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="737" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-14" value="Key pair = encryption = public and private key&lt;div&gt;AWS access = programmatic access = certifikat&lt;/div&gt;&lt;div&gt;Host er større end instance, og host giver mulighed for BYOL (license)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="640" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-15" value="&lt;b&gt;Amazon Route 53&lt;/b&gt;&lt;div&gt;Til DNS, domain name service, routing users&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="180" width="145" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
