@@ -11,13 +11,13 @@
           <mxGeometry x="90" y="60" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N-OLMTnW74gIgdQo4pyC-3" value="CloudFront" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="269" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N-OLMTnW74gIgdQo4pyC-4" value="AWS Organization&lt;div&gt;Policies&lt;/div&gt;&lt;div&gt;Roller&lt;/div&gt;&lt;div&gt;Billing&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="353.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N-OLMTnW74gIgdQo4pyC-5" value="Glacier&lt;div&gt;(arkivering)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="433" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N-OLMTnW74gIgdQo4pyC-7" value="&lt;b&gt;Amazon&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;S3&lt;/b&gt;&lt;div&gt;&lt;div&gt;-object level storage, dvs. forskellige typer og ustruktureret&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="490" width="120" height="60" as="geometry" />
@@ -43,8 +43,8 @@
         <mxCell id="YO7A1a3UFihamz9B0ZOD-3" value="&lt;b&gt;Amazon EFS&lt;/b&gt;&lt;div&gt;Elastic file system&lt;/div&gt;&lt;div&gt;Serverless - ingen adm.&lt;/div&gt;&lt;div&gt;(Filer, ikke objecter)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-4" value="&lt;b&gt;AWS Config (L1).&lt;/b&gt;&lt;div&gt;Et &lt;u&gt;view&lt;/u&gt; på dine ressourcer (snapshot)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="600" width="120" height="80" as="geometry" />
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-4" value="&lt;b&gt;AWS Config (L1).&lt;/b&gt;&lt;div&gt;Et &lt;u&gt;view&lt;/u&gt; på dine ressourcer (snapshot) også&amp;nbsp; beskeder/notificationer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="600" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YO7A1a3UFihamz9B0ZOD-5" value="Elasticitet er har glæde af" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="420" width="120" height="60" as="geometry" />
