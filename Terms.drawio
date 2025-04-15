@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="N-OLMTnW74gIgdQo4pyC-1" value="&lt;b&gt;IAM usergroup (&lt;/b&gt;level 3) term, under IAM mgmt. (level 1) og så Identities (level 2)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="N-OLMTnW74gIgdQo4pyC-1" value="&lt;b&gt;IAM usergroup &lt;/b&gt;(level 3) term, under IAM mgmt. (level 1) og så Identities (level 2)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="40" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="N-OLMTnW74gIgdQo4pyC-2" value="&lt;b&gt;AWS Trusted Advisor (L1)&lt;/b&gt;&lt;div&gt;Tester automat gearet, analyser/checks, inkl. security&lt;/div&gt;&lt;div&gt;-Provisioneret korrekt&lt;/div&gt;&lt;div&gt;-EC2 performance&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -29,7 +29,7 @@
           <mxGeometry x="579" y="470" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="N-OLMTnW74gIgdQo4pyC-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Virtual private cloud&lt;div&gt;&lt;br&gt;&lt;div&gt;Subnet&amp;nbsp; /&amp;nbsp; Subnet&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="850" y="240" width="230" height="60" as="geometry" />
+          <mxGeometry x="890" y="130" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N-OLMTnW74gIgdQo4pyC-11" value="Scaling er noget man aktivere/bruger/gør" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="480" width="120" height="60" as="geometry" />
@@ -73,8 +73,8 @@
         <mxCell id="YO7A1a3UFihamz9B0ZOD-13" value="&lt;b&gt;Amazon SES&lt;/b&gt;&lt;div&gt;Simple email service&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="850" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YO7A1a3UFihamz9B0ZOD-14" value="Key pair = encryption = public and private key&lt;div&gt;AWS access key&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;= programmatic access = certifikat&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Host er større end instance, og host giver mulighed for BYOL (license)&lt;/div&gt;&lt;div&gt;Amazon EMR = Big data platform&lt;/div&gt;&lt;div&gt;Amazon MQ = message broker (managed), bruges af applikationer til at kommunikere sammen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Lightsail = er en mini VPC (EC2 er den dyrere løsning, som kan mere)&lt;/div&gt;&lt;div&gt;Cognito =Authen og Autho. system&lt;/div&gt;&lt;div&gt;AMI = virtual server, template (Amazon Machine Image)&lt;/div&gt;&lt;div&gt;ACL = Access control list&lt;/div&gt;&lt;div&gt;Hypervisor = creating multiple Virtual machines on a single psysical machine&lt;/div&gt;&lt;div&gt;CloudFront = content via web&lt;/div&gt;&lt;div&gt;CloudFormation = infrastructure as a service&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="640" width="260" height="320" as="geometry" />
+        <mxCell id="YO7A1a3UFihamz9B0ZOD-14" value="Key pair = encryption = public and private key&lt;div&gt;AWS access key&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;= programmatic access = certifikat&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Host er større end instance, og host giver mulighed for BYOL (license)&lt;/div&gt;&lt;div&gt;Amazon EMR = Big data platform&lt;/div&gt;&lt;div&gt;Amazon MQ = message broker (managed), bruges af applikationer til at kommunikere sammen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Lightsail = er en mini VPC (EC2 er den dyrere løsning, som kan mere)&lt;/div&gt;&lt;div&gt;Cognito =Authen og Autho. system&lt;/div&gt;&lt;div&gt;AMI = virtual server, template (Amazon Machine Image)&lt;/div&gt;&lt;div&gt;ACL = Access control list&lt;/div&gt;&lt;div&gt;Hypervisor = creating multiple Virtual machines on a single psysical machine&lt;/div&gt;&lt;div&gt;CloudFront = content via web&lt;/div&gt;&lt;div&gt;CloudFormation = infrastructure as a service&lt;/div&gt;&lt;div&gt;AWS Macie = sensitive data discovery and actins/protection&lt;/div&gt;&lt;div&gt;ACM = AWS certificate manager, provision and deploy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="860" y="640" width="260" height="350" as="geometry" />
         </mxCell>
         <mxCell id="YO7A1a3UFihamz9B0ZOD-15" value="&lt;b&gt;Amazon Route 53 &lt;/b&gt;(L2 product)&lt;div&gt;Til DNS, domain name service, routing users&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="585" y="180" width="145" height="90" as="geometry" />
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="Nz3XOWUSvB9lIuEXFzWS-2" value="Stateless applications are generally more scalable, as each request is independent and can be handled by any available server using load balancing. Stateful applications have tightly coupled instances making it more difficult to scale. 22. jan. 2025" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="1190" width="560" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Nz3XOWUSvB9lIuEXFzWS-3" value="AWS Certificate Manager&#xa;AWS Certificate Manager (ACM) is a service that lets you easily provision, manage, and deploy public and private Secure Sockets Layer/Transport Layer Security (SSL/TLS) certificates for use with AWS services and your internal connected resources." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1280" width="560" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
