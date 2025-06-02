@@ -55,6 +55,9 @@
         <mxCell id="tS7eAkdEoFlKgvX4qmfI-9" value="Data version xx" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="864" y="219" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tS7eAkdEoFlKgvX4qmfI-10" value="Måden det organiseret på vil have betydning for pris og kvalitet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="160" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
