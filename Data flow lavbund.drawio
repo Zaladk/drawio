@@ -4,29 +4,50 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ucc53te2J3rp9h8ptc83-1" value="Modtage&lt;div&gt;grunddata fra GST&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="80" width="140" height="60" as="geometry" />
+        <mxCell id="Ucc53te2J3rp9h8ptc83-1" value="Modtage&lt;div&gt;grunddata fra GST, inkl. ejer og ejerfordeling&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="100" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ucc53te2J3rp9h8ptc83-2" value="Modtager&amp;nbsp;&lt;div&gt;lavbundsdata fra&lt;div&gt;AU&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="160" width="140" height="60" as="geometry" />
+        <mxCell id="Ucc53te2J3rp9h8ptc83-2" value="Modtage&amp;nbsp;&lt;div&gt;lavbundsdata fra&lt;div&gt;AU&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="260" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ucc53te2J3rp9h8ptc83-3" value="Afgræsninger (bagatælgrænse mv.)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="320" width="140" height="60" as="geometry" />
+        <mxCell id="Ucc53te2J3rp9h8ptc83-3" value="Identificere afgrænsninger&lt;div&gt;(bagatælgrænse mv.)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="420" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ucc53te2J3rp9h8ptc83-4" value="Overlapsanalyse" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="240" width="140" height="60" as="geometry" />
+        <mxCell id="Ucc53te2J3rp9h8ptc83-4" value="Gennemføre overlapsanalyse" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="340" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ucc53te2J3rp9h8ptc83-7" value="Ejerskifte&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="400" width="140" height="60" as="geometry" />
+        <mxCell id="Ucc53te2J3rp9h8ptc83-7" value="Data version 2.1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="340" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ucc53te2J3rp9h8ptc83-8" value="Indsigelse" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="240" width="140" height="60" as="geometry" />
+          <mxGeometry x="920" y="340" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ucc53te2J3rp9h8ptc83-9" value="Matrikulering" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="80" width="140" height="60" as="geometry" />
+          <mxGeometry x="720" y="20" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ucc53te2J3rp9h8ptc83-10" value="Indsigelse" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="320" width="140" height="60" as="geometry" />
+          <mxGeometry x="920" y="420" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tS7eAkdEoFlKgvX4qmfI-1" value="Konsolidere til opkrævningsbrug" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tS7eAkdEoFlKgvX4qmfI-2" value="Ejerskifte&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="561" y="20" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tS7eAkdEoFlKgvX4qmfI-3" value="Data version 1.0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tS7eAkdEoFlKgvX4qmfI-4" value="Data version 1.1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tS7eAkdEoFlKgvX4qmfI-5" value="Data version 2.2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tS7eAkdEoFlKgvX4qmfI-6" value="Data version 1.1.0.1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="561" y="180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tS7eAkdEoFlKgvX4qmfI-7" value="Data version 1.1.1.1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="180" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
