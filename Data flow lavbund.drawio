@@ -5,55 +5,55 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ucc53te2J3rp9h8ptc83-1" value="Modtage&lt;div&gt;grunddata fra GST, inkl. ejer og ejerfordeling&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="121" width="140" height="60" as="geometry" />
+          <mxGeometry x="63" y="139" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ucc53te2J3rp9h8ptc83-2" value="Modtage&amp;nbsp;&lt;div&gt;lavbundsdata fra&lt;div&gt;AU&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="281" width="140" height="60" as="geometry" />
+          <mxGeometry x="223" y="299" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ucc53te2J3rp9h8ptc83-3" value="Identificere afgrænsninger&lt;div&gt;(bagatælgrænse mv.)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="441" width="140" height="60" as="geometry" />
+          <mxGeometry x="223" y="459" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ucc53te2J3rp9h8ptc83-4" value="Gennemføre overlapsanalyse" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="361" width="140" height="60" as="geometry" />
+          <mxGeometry x="223" y="379" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ucc53te2J3rp9h8ptc83-7" value="Data version 1.2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="361" width="140" height="60" as="geometry" />
+          <mxGeometry x="383" y="379" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ucc53te2J3rp9h8ptc83-8" value="Indsigelse" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="361" width="140" height="60" as="geometry" />
+          <mxGeometry x="1003" y="379" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ucc53te2J3rp9h8ptc83-9" value="Udstykning/&lt;div&gt;matrikulering&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="41" width="140" height="60" as="geometry" />
+          <mxGeometry x="703" y="59" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ucc53te2J3rp9h8ptc83-10" value="Indsigelse" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="441" width="140" height="60" as="geometry" />
+          <mxGeometry x="1003" y="459" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tS7eAkdEoFlKgvX4qmfI-1" value="Konsolidere til opkrævningsbrug" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="201" width="140" height="60" as="geometry" />
+          <mxGeometry x="63" y="219" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tS7eAkdEoFlKgvX4qmfI-2" value="Ejerskifte&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="561" y="41" width="140" height="60" as="geometry" />
+          <mxGeometry x="544" y="59" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tS7eAkdEoFlKgvX4qmfI-3" value="Data version 1.0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="121" width="140" height="60" as="geometry" />
+          <mxGeometry x="383" y="139" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tS7eAkdEoFlKgvX4qmfI-4" value="Data version 1.1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="201" width="140" height="60" as="geometry" />
+          <mxGeometry x="383" y="219" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tS7eAkdEoFlKgvX4qmfI-5" value="Data version 1.3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="441" width="140" height="60" as="geometry" />
+          <mxGeometry x="383" y="459" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tS7eAkdEoFlKgvX4qmfI-6" value="Data version 2.1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="561" y="201" width="140" height="60" as="geometry" />
+          <mxGeometry x="544" y="219" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tS7eAkdEoFlKgvX4qmfI-7" value="Data version 3.1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="201" width="140" height="60" as="geometry" />
+          <mxGeometry x="703" y="219" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tS7eAkdEoFlKgvX4qmfI-8" value="Status/udtagning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="41" width="140" height="60" as="geometry" />
+          <mxGeometry x="864" y="59" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tS7eAkdEoFlKgvX4qmfI-9" value="Data version xx" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="201" width="140" height="60" as="geometry" />
+          <mxGeometry x="864" y="219" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
