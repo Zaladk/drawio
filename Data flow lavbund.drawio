@@ -20,13 +20,13 @@
           <mxGeometry x="400" y="361" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ucc53te2J3rp9h8ptc83-8" value="Indsigelse" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="361" width="140" height="60" as="geometry" />
+          <mxGeometry x="1020" y="361" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ucc53te2J3rp9h8ptc83-9" value="Udstykning/&lt;div&gt;matrikulering&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="41" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ucc53te2J3rp9h8ptc83-10" value="Indsigelse" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="441" width="140" height="60" as="geometry" />
+          <mxGeometry x="1020" y="441" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tS7eAkdEoFlKgvX4qmfI-1" value="Konsolidere til opkrævningsbrug" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="201" width="140" height="60" as="geometry" />
@@ -48,6 +48,12 @@
         </mxCell>
         <mxCell id="tS7eAkdEoFlKgvX4qmfI-7" value="Data version 3.1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="201" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tS7eAkdEoFlKgvX4qmfI-8" value="Status/udtagning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="41" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tS7eAkdEoFlKgvX4qmfI-9" value="Data version xx" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="201" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
