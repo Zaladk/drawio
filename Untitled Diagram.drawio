@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.2">
   <diagram name="Page-1" id="NTakOrSyBY9N-iLC6UXw">
-    <mxGraphModel>
+    <mxGraphModel dx="2291" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ucc53te2J3rp9h8ptc83-1" value="Modtage&lt;div&gt;grunddata fra GST&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ucc53te2J3rp9h8ptc83-2" value="Modtager&amp;nbsp;&lt;div&gt;lavbundsdata fra&lt;div&gt;AU&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ucc53te2J3rp9h8ptc83-3" value="Afgræsninger (bagatælgrænse mv.)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ucc53te2J3rp9h8ptc83-4" value="Overlapsanalyse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ucc53te2J3rp9h8ptc83-7" value="Ejerskifte&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ucc53te2J3rp9h8ptc83-8" value="Indsigelse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ucc53te2J3rp9h8ptc83-9" value="Matrikulering" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ucc53te2J3rp9h8ptc83-10" value="Indsigelse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
