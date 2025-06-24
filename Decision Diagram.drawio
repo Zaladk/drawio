@@ -7,14 +7,14 @@
         <mxCell id="CJ7JUIm8QIhLBexYKzp_-1" value="&lt;b&gt;Afklaring af ansvar&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hvor&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CJ7JUIm8QIhLBexYKzp_-3" value="&lt;b&gt;Dialog og afdækning af nuancer ved forretningskrav&lt;/b&gt;&lt;div&gt;- implikatioer ved implementering kan påvirke indhold&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hvad&lt;/div&gt;&lt;div&gt;(forretningskrav)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CJ7JUIm8QIhLBexYKzp_-3" value="&lt;b&gt;Dialog og afdækning af nuancer ved forretningskrav/indhold&lt;/b&gt;&lt;div&gt;- implikatioer ved implementering kan påvirke indhold&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hvad&lt;/div&gt;&lt;div&gt;(forretningskrav)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CJ7JUIm8QIhLBexYKzp_-4" value="&lt;div&gt;&lt;b&gt;Forretningsproces og systemunderstøttelse&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hvordan&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="400" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CJ7JUIm8QIhLBexYKzp_-5" value="&lt;b&gt;Usikkerhed &lt;/b&gt;ved at tage &#39;hvad&#39; beslutninger, før &#39;hvor&#39; beslutninger er taget, fordi de ser på løsningen anderledes, når du skal tage ansvar for den" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="240" height="120" as="geometry" />
+          <mxGeometry x="360" y="240" width="280" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
