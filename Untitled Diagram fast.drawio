@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="H3Crg3EAl3GwgbvSdKA2">
-    <mxGraphModel>
+    <mxGraphModel dx="1358" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IiEQoOT-st9fqlccT0DE-1" value="Formålet med FASTER er at danne en fælles europæisk ramme for håndteringen af over-skydende indeholdt udbytteskat på noterede aktier og således skabe konvergens mellem de mange forskellige lempelsesordninger, der er gældende i dag, og samtidig sikre større gennemsigtighed omkring udbyttebetalinger fra selskabet og til aktionæren. Med direkti-vet indføres således en harmoniseret udbyttemodel på tværs af medlemsstaterne, der skal bidrage til en velfungerende kapitalmarkedsunion og sikre fair beskatning i det indre mar-ked gennem fjernelse af hindringer for grænseoverskridende investeringer og bekæmpelse af skattesvig og -misbrug. I dag hæmmes investeringer af byrdefulde og forskelligartede procedurer for lempelse af overskydende kildeskat, samtidig med, at myndighederne mangler en generel transparens omkring udbyttebetalinger på tværs af EU, for at kunne sikre den korrekte beskatning.&#xa;&#xa;&#xa;&#xa;&#xa;Direktivet består af tre hovedelementer:&#xa;&#xa;&#xa;1. Der skal indføres en fælles europæisk digital hjemstedsattest (eTRC) for at sikre, at aktionærerne har adgang til et ensartet og alment accepteret bevis for skattemæs-sigt hjemsted.&#xa;&#xa;&#xa;2. Der skal indføres fælles procedurer for lempelse af udbytteskat, herunder hurtig refusion (i direktivet benævnt hurtig tilbagebetaling) og/eller nettoindeholdelse (lempelse ved kilden).&#xa;&#xa;&#xa;3. Der skal indføres standardiserede regler for registrerede certificerede finansielle formidlere (CFI) om deres due diligence-forpligtelser og pligt til at indberette de-taljerede oplysninger om udbyttebetalinger" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="140" width="680" height="390" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
