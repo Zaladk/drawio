@@ -4,11 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IJsLZBELwg1uSeGXRxiu-1" value="Data modtages fra eksterne kilder&lt;div&gt;+&lt;/div&gt;&lt;div&gt;ETL&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IJsLZBELwg1uSeGXRxiu-1" value="-Data modtages fra eksterne kilder&lt;div&gt;+&lt;/div&gt;&lt;div&gt;ETL&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;spacingLeft=4;spacingRight=4;strokeWidth=1;dashed=1;dashPattern=1 4;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Gm-o-pomgaIJfeQNBRwY-2" value="Overlapsanalyse gennemføres og opgøres på BFE&lt;div&gt;+&lt;/div&gt;&lt;div&gt;Load&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="160" width="120" height="80" as="geometry" />
+        <mxCell id="Gm-o-pomgaIJfeQNBRwY-2" value="-Overlapsanalyse gennemføres og opgøres på BFE&lt;div&gt;+&lt;/div&gt;&lt;div&gt;Load&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;spacingRight=4;spacingLeft=4;strokeWidth=1;dashed=1;dashPattern=1 4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Gm-o-pomgaIJfeQNBRwY-3" value="IMK" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gm-o-pomgaIJfeQNBRwY-4" value="ETL" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gm-o-pomgaIJfeQNBRwY-5" value="-Data persisteres baseret på sagsbehandlingsstruktur&lt;div&gt;-Sager behandles og færddiggøres&lt;br&gt;&lt;div&gt;-Data opdateres via sagsadgang baseret på faglige opgørelser&lt;/div&gt;&lt;/div&gt;&lt;div&gt;-Meddelelser genereres og videresendes til afsendelse (digitalt/fysisk)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;spacingRight=4;spacingLeft=4;strokeWidth=1;dashed=1;dashPattern=1 4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Gm-o-pomgaIJfeQNBRwY-7" value="ESDH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="120" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
