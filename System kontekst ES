@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;b&gt;ES&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;(system)&lt;/span&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="150" x="370" y="400" as="geometry" />
+          <mxGeometry height="160" width="150" x="370" y="399" as="geometry" />
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#E6E6E6;" value="&lt;b&gt;ERST&lt;/b&gt;" vertex="1">
           <mxGeometry height="160" width="120" x="201" y="363" as="geometry" />
@@ -103,7 +103,7 @@
         <mxCell id="H3enojOr65X8oyQx39ka-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;div&gt;&lt;b&gt;AogD&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(system)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Output: Meddelelser (breve)&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="370" y="601" as="geometry" />
         </mxCell>
-        <mxCell id="H3enojOr65X8oyQx39ka-40" edge="1" parent="1" source="H3enojOr65X8oyQx39ka-39" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="H3enojOr65X8oyQx39ka-1" value="">
+        <mxCell id="H3enojOr65X8oyQx39ka-40" edge="1" parent="1" source="H3enojOr65X8oyQx39ka-39" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;" target="H3enojOr65X8oyQx39ka-1" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="71.97" y="573" as="sourcePoint" />
             <mxPoint x="201.97" y="683" as="targetPoint" />
@@ -169,6 +169,12 @@
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=#E6E6E6;fontSize=10;" value="&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;ERST er den primære indgang for&lt;/span&gt;&lt;div style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;span&gt;virksomheder (CVR-numre) ved&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;span&gt;oprettelse, ændringer, ophør.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;span&gt;Henvendelse om pligter kan fx ske&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193)); background-color: transparent;&quot;&gt;direkte til Skat.&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="560" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-88" edge="1" parent="1" source="H3enojOr65X8oyQx39ka-2" style="endArrow=classic;html=1;rounded=0;entryX=0.008;entryY=0.888;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;exitX=-0.006;exitY=0.847;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="450" y="391.3399999999999" as="sourcePoint" />
+            <mxPoint x="140" y="260.99999999999994" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
