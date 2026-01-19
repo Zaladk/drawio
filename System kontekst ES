@@ -4,11 +4,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="H3enojOr65X8oyQx39ka-9" edge="1" parent="1" source="H3enojOr65X8oyQx39ka-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="H3enojOr65X8oyQx39ka-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Virksomhed&lt;div&gt;(juridisk person)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="H3enojOr65X8oyQx39ka-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ES&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="120" x="350" y="305" as="geometry" />
+        <mxCell id="H3enojOr65X8oyQx39ka-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="ES&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="135" width="120" x="450" y="292.5" as="geometry" />
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Stamdata" vertex="1">
+          <mxGeometry height="30" width="100" x="460" y="327.5" as="geometry" />
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pligter og perioder" vertex="1">
+          <mxGeometry height="40" width="100" x="460" y="367.5" as="geometry" />
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="ERST" vertex="1">
+          <mxGeometry height="200" width="120" x="230" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Virk.dk" vertex="1">
+          <mxGeometry height="30" width="100" x="240" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CVR-registret" vertex="1">
+          <mxGeometry height="30" width="100" x="240" y="399" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
