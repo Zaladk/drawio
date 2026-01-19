@@ -99,7 +99,7 @@
           <mxGeometry height="20" width="40" x="5" y="2" as="geometry" />
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-63" parent="H3enojOr65X8oyQx39ka-61" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;person&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="50" as="geometry" />
+          <mxGeometry height="30" width="50" y="-1" as="geometry" />
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;System kontekst diagram, Erhversregistrering&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="290" x="40" y="37" as="geometry" />
