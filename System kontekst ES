@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="H3enojOr65X8oyQx39ka-81" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;dashed=1;dashPattern=1 4;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="460" width="150" x="570" y="200" as="geometry" />
+        </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Virksomhed&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 9px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(juridisk person)&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="80" y="203" as="geometry" />
+          <mxGeometry height="60" width="120" x="61" y="201" as="geometry" />
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-42" edge="1" parent="1" source="H3enojOr65X8oyQx39ka-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.467;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry relative="1" as="geometry">
@@ -26,7 +29,7 @@
           <mxGeometry height="30" width="100" x="211" y="458" as="geometry" />
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;WorkZone (??)&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;(system)&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(sagsbehandling,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;afgørelser)&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="108" x="373" y="203" as="geometry" />
+          <mxGeometry height="60" width="108" x="373" y="201" as="geometry" />
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -34,7 +37,7 @@
             <mxPoint x="370" y="469" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H3enojOr65X8oyQx39ka-24" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" value="">
+        <mxCell id="H3enojOr65X8oyQx39ka-24" edge="1" parent="1" source="H3enojOr65X8oyQx39ka-1" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;exitX=0.999;exitY=0.375;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="202" y="225" as="sourcePoint" />
             <mxPoint x="370" y="225" as="targetPoint" />
@@ -51,7 +54,12 @@
             <mxPoint x="500" y="401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H3enojOr65X8oyQx39ka-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" value="">
+        <mxCell id="H3enojOr65X8oyQx39ka-73" connectable="0" parent="H3enojOr65X8oyQx39ka-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Opdatering&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;via&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;sagsbehandling&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1498" y="-1" as="geometry">
+            <mxPoint y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-26" edge="1" parent="1" source="H3enojOr65X8oyQx39ka-1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=1.022;exitY=0.674;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="202" y="242" as="sourcePoint" />
             <mxPoint x="260.9999999999998" y="361" as="targetPoint" />
@@ -72,10 +80,10 @@
           <mxGeometry height="30" width="50" x="386" y="80" as="geometry" />
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;person&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="132" y="197" as="geometry" />
+          <mxGeometry height="30" width="50" x="113" y="195" as="geometry" />
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-37" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="100" width="120" x="582" y="543" as="geometry" />
+          <mxGeometry height="100" width="120" x="582" y="537" as="geometry" />
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-28" parent="H3enojOr65X8oyQx39ka-37" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;fillColor=#E6E6E6;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Anden myndighed&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;-ATP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;-DST&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;-Rigspolitiet&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;mf.&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="83.33333333333334" width="120" y="16.666666666666668" as="geometry" />
@@ -90,7 +98,7 @@
           <mxGeometry height="30" width="50" y="-1" as="geometry" />
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;System kontekst diagram, Erhversregistrering&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="290" x="80" y="37" as="geometry" />
+          <mxGeometry height="30" width="290" x="61" y="39" as="geometry" />
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;div&gt;&lt;b&gt;AogD&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(system)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Output: Meddelelser (breve)&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="370" y="601" as="geometry" />
@@ -106,20 +114,14 @@
             <mxPoint x="91" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H3enojOr65X8oyQx39ka-47" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="520" y="467.1999999999998" as="sourcePoint" />
-            <mxPoint x="579" y="467" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;-DCS&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;-CSR-P&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;-Forskud/slut&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;-3S&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;-DIAS&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;-DMI&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;-DMS&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;-DR&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;-PSRM&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;-Manifest&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;-DMR&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SAP-DMO&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;SAP38&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;SAP PS&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Skat ligning&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;mf.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="323" width="120" x="582" y="203" as="geometry" />
+          <mxGeometry height="316" width="120" x="582" y="210" as="geometry" />
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;dashed=1;dashPattern=1 4;fontSize=9;" value="&lt;b&gt;Interne systemer, som&lt;br&gt;er datakunde hos ES&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="582" y="211" as="geometry" />
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-57" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="30" width="50" x="82" y="181" as="geometry" />
+          <mxGeometry height="30" width="50" x="63" y="179" as="geometry" />
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-31" parent="H3enojOr65X8oyQx39ka-57" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.half_circle;rotation=-180;" value="" vertex="1">
           <mxGeometry height="20" width="40" x="5" y="2" as="geometry" />
@@ -139,9 +141,6 @@
         <mxCell id="H3enojOr65X8oyQx39ka-68" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Håndterer stamdata&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); text-align: center;&quot;&gt;på CVR-numre, pligter og perioder, der anvendes som parametre i andre systemer&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="110" width="90" x="397" y="433" as="geometry" />
         </mxCell>
-        <mxCell id="H3enojOr65X8oyQx39ka-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;dashed=1;dashPattern=1 4;fontSize=9;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Kernesystem: &lt;b&gt;ES&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Hvordan ser omgivelserne ud?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Hvem er de væsentligste aktører,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;systemer, orgnisationer og personer?&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="190" x="560" y="37" as="geometry" />
-        </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-71" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.856;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=1 4;startArrow=classic;startFill=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="436" y="163" as="sourcePoint" />
@@ -153,6 +152,23 @@
             <mxPoint x="370" y="130" as="sourcePoint" />
             <mxPoint x="300" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-80" connectable="0" parent="H3enojOr65X8oyQx39ka-72" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Manuel&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;interaktion&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;med ERST&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.5312" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-82" edge="1" parent="1" source="H3enojOr65X8oyQx39ka-2" style="endArrow=classic;html=1;rounded=0;exitX=1.006;exitY=0.453;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="289.99999999999994" as="sourcePoint" />
+            <mxPoint x="570" y="472" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=#E6E6E6;fontSize=10;" value="&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;Kernesystem:&amp;nbsp;&lt;b&gt;ES&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;span&gt;Hvordan ser omgivelserne ud?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;div&gt;&lt;font&gt;Hvem er de væsentligste aktører,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;systemer, orgnisationer og personer?&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="61" width="180" x="560" y="39" as="geometry" />
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=#E6E6E6;fontSize=10;" value="&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;ERST er den primære indgang for&lt;/span&gt;&lt;div style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;span&gt;virksomheder (CVR-numre) ved&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;span&gt;oprettelse, ændringer, ophør.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;span&gt;Henvendelse om pligter kan fx ske&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193)); background-color: transparent;&quot;&gt;direkte til Skat.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="560" y="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
