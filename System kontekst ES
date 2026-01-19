@@ -4,19 +4,22 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="H3enojOr65X8oyQx39ka-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Virksomhed&lt;div&gt;(juridisk person)&lt;/div&gt;" vertex="1">
+        <mxCell id="H3enojOr65X8oyQx39ka-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Virksomhed&lt;br&gt;&lt;span style=&quot;font-size: 9px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(juridisk person)&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="H3enojOr65X8oyQx39ka-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="ES&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="H3enojOr65X8oyQx39ka-42" edge="1" parent="1" source="H3enojOr65X8oyQx39ka-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="H3enojOr65X8oyQx39ka-39" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;b&gt;ES&lt;/b&gt;" vertex="1">
           <mxGeometry height="160" width="120" x="420" y="350" as="geometry" />
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Stamdata" vertex="1">
           <mxGeometry height="30" width="100" x="429" y="395.5" as="geometry" />
         </mxCell>
-        <mxCell id="H3enojOr65X8oyQx39ka-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pligter og perioder" vertex="1">
-          <mxGeometry height="40" width="100" x="430" y="449.5" as="geometry" />
+        <mxCell id="H3enojOr65X8oyQx39ka-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pligter og perioder&lt;br&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(parametre til andre systemer)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="59.5" width="100" x="430" y="440.5" as="geometry" />
         </mxCell>
-        <mxCell id="H3enojOr65X8oyQx39ka-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="ERST" vertex="1">
+        <mxCell id="H3enojOr65X8oyQx39ka-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;b&gt;ERST&lt;/b&gt;" vertex="1">
           <mxGeometry height="200" width="120" x="230" y="310" as="geometry" />
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Virk.dk" vertex="1">
@@ -25,7 +28,7 @@
         <mxCell id="H3enojOr65X8oyQx39ka-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CVR-registret" vertex="1">
           <mxGeometry height="30" width="100" x="240" y="415" as="geometry" />
         </mxCell>
-        <mxCell id="H3enojOr65X8oyQx39ka-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="System X&lt;div&gt;(sagsbehandling)&lt;/div&gt;" vertex="1">
+        <mxCell id="H3enojOr65X8oyQx39ka-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;System X&lt;/b&gt;&lt;div&gt;(sagsbehandling)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="420" y="160" as="geometry" />
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.007;entryY=0.655;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
@@ -56,6 +59,51 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="160" y="200" as="sourcePoint" />
             <mxPoint x="420" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sagsbehandler" vertex="1">
+          <mxGeometry height="60" width="120" x="419" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-30" edge="1" parent="1" source="H3enojOr65X8oyQx39ka-19" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="430" y="170" as="sourcePoint" />
+            <mxPoint x="480" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-31" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.half_circle;rotation=-180;" value="" vertex="1">
+          <mxGeometry height="20" width="40" x="50" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-32" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.half_circle;rotation=-180;" value="" vertex="1">
+          <mxGeometry height="20" width="40" x="429" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Manuel&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="424" y="37" as="geometry" />
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Manuel&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="45" y="137" as="geometry" />
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-37" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="83" width="120" x="640" y="549" as="geometry" />
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-28" parent="H3enojOr65X8oyQx39ka-37" style="rounded=1;whiteSpace=wrap;html=1;" value="Anden myndighed" vertex="1">
+          <mxGeometry height="60" width="120" y="23" as="geometry" />
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-33" parent="H3enojOr65X8oyQx39ka-37" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.half_circle;rotation=-180;" value="" vertex="1">
+          <mxGeometry height="20" width="40" x="10" y="3" as="geometry" />
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-36" parent="H3enojOr65X8oyQx39ka-37" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Manuel&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="5" as="geometry" />
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;System kontekst diagram, Erhversregistrering&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="290" x="40" y="37" as="geometry" />
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;div&gt;&lt;b&gt;AogD&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Meddelelser (breve)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="116" x="422" y="571" as="geometry" />
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-40" edge="1" parent="1" source="H3enojOr65X8oyQx39ka-39" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="H3enojOr65X8oyQx39ka-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="109.97" y="530" as="sourcePoint" />
+            <mxPoint x="239.97" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
