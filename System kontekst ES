@@ -27,6 +27,11 @@
             <mxPoint x="440" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-99" connectable="0" parent="H3enojOr65X8oyQx39ka-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;DF&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2431" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;b&gt;ES&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;(system)&lt;/span&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="150" x="370" y="399" as="geometry" />
         </mxCell>
@@ -46,6 +51,11 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="322" y="469" as="sourcePoint" />
             <mxPoint x="370" y="469" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-98" connectable="0" parent="H3enojOr65X8oyQx39ka-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;DF&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0704" y="-1" as="geometry">
+            <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-24" edge="1" parent="1" source="H3enojOr65X8oyQx39ka-1" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;exitX=0.999;exitY=0.375;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
@@ -147,6 +157,11 @@
             <mxPoint x="436" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-100" connectable="0" parent="H3enojOr65X8oyQx39ka-71" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Manuel interaktion&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0419" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-72" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 4;edgeStyle=orthogonalEdgeStyle;startArrow=classic;startFill=1;jumpStyle=gap;entryX=0.832;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" target="H3enojOr65X8oyQx39ka-5" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="370" y="130" as="sourcePoint" />
@@ -162,6 +177,11 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="519.9000000000001" y="471.48" as="sourcePoint" />
             <mxPoint x="568.6999999999998" y="471.4000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H3enojOr65X8oyQx39ka-92" connectable="0" parent="H3enojOr65X8oyQx39ka-82" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;DF&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1974" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=#E6E6E6;fontSize=10;spacingLeft=2;spacingRight=2;" value="&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;Kernesystem:&amp;nbsp;&lt;b&gt;ES&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;span&gt;Hvordan ser omgivelserne ud?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;div&gt;&lt;font&gt;Hvad er de væsentligste aktører,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;systemer, orgnisationer, personer og dataflow (&lt;b&gt;DF&lt;/b&gt;)?&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
