@@ -44,7 +44,7 @@
         <mxCell id="H3enojOr65X8oyQx39ka-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;CVR-registret&lt;br&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;(system)&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="206" y="443" as="geometry" />
         </mxCell>
-        <mxCell id="H3enojOr65X8oyQx39ka-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;WorkZone (??)&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;(system)&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(sagsbehandling,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;afgørelser)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="H3enojOr65X8oyQx39ka-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;WorkZone&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;(system)&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(sagsbehandling,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;afgørelser)&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="69" width="150" x="370" y="201" as="geometry" />
         </mxCell>
         <mxCell id="H3enojOr65X8oyQx39ka-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;" value="">
