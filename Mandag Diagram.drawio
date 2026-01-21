@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0R9LiAOyKMSTkGMRUicv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" value="&lt;blockquote&gt;asdf&lt;/blockquote&gt;" vertex="1">
+        <mxCell id="0R9LiAOyKMSTkGMRUicv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" value="&lt;blockquote&gt;&lt;font face=&quot;Just Another Hand&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Just+Another+Hand&quot;&gt;asdf&lt;/font&gt;&lt;/blockquote&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="160" y="120" as="geometry" />
         </mxCell>
         <mxCell id="0R9LiAOyKMSTkGMRUicv-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="" vertex="1">
@@ -33,8 +33,8 @@
             <mxPoint x="-48" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0R9LiAOyKMSTkGMRUicv-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#E6D0DE;sketch=1;fillStyle=auto;shadow=1;strokeColor=none;fontFamily=Just Another Hand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJust%2BAnother%2BHand;" value="asdf" vertex="1">
-          <mxGeometry height="70" width="135" x="150" y="40" as="geometry" />
+        <mxCell id="0R9LiAOyKMSTkGMRUicv-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#E6D0DE;sketch=1;fillStyle=auto;shadow=1;strokeColor=none;fontFamily=Just Another Hand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJust%2BAnother%2BHand;" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Test&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="135" x="60" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
