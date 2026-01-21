@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0R9LiAOyKMSTkGMRUicv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+        <mxCell id="0R9LiAOyKMSTkGMRUicv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" value="&lt;blockquote&gt;asdf&lt;/blockquote&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="160" y="120" as="geometry" />
         </mxCell>
         <mxCell id="0R9LiAOyKMSTkGMRUicv-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="" vertex="1">
@@ -22,11 +22,19 @@
         <mxCell id="0R9LiAOyKMSTkGMRUicv-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="160" />
+              <mxPoint x="610" y="150" />
             </Array>
-            <mxPoint x="430" y="170" as="sourcePoint" />
-            <mxPoint x="730" y="170" as="targetPoint" />
+            <mxPoint x="460" y="160" as="sourcePoint" />
+            <mxPoint x="760" y="160" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0R9LiAOyKMSTkGMRUicv-9" connectable="0" parent="0R9LiAOyKMSTkGMRUicv-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="asdf" vertex="1">
+          <mxGeometry relative="1" x="0.3221" y="-5" as="geometry">
+            <mxPoint x="-48" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0R9LiAOyKMSTkGMRUicv-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#E6D0DE;sketch=1;fillStyle=auto;shadow=1;strokeColor=none;fontFamily=Just Another Hand;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DJust%2BAnother%2BHand;" value="asdf" vertex="1">
+          <mxGeometry height="70" width="135" x="150" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
