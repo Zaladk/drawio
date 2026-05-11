@@ -40,7 +40,7 @@
         <mxCell id="mwhUUGpBxJ4q5rbv5hhS-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;align=left;verticalAlign=top;spacing=4;fontSize=12;" value="&lt;div&gt;Minimum&lt;/div&gt;&lt;ol style=&quot;line-height: 140%;&quot;&gt;&lt;li&gt;Strukturere data til generering af opkrævning (‘én case’ bliver til en agterskrivelse) og&lt;/li&gt;&lt;li&gt;til et fuldt opkrævningsgrundlag&lt;/li&gt;&lt;li&gt;Kommunikere teknisk med andre systemer med unikt fordrings-id &lt;/li&gt;&lt;li&gt;Understøtte sagsbehandling (spørgsmål, indsigelser og klager)&lt;/li&gt;&lt;li&gt;Håndtering af løbende rettelser&lt;/li&gt;&lt;li&gt;Håndtere status på matrikel med lavbund og agere teknisk dirigent på fordringer, fx&lt;/li&gt;&lt;li&gt;tilbageholdelse af udsendelser&lt;/li&gt;&lt;li&gt;Generere og udsende af agterskrivelser&lt;/li&gt;&lt;/ol&gt;" vertex="1">
           <mxGeometry height="263" width="320" x="425" y="377" as="geometry" />
         </mxCell>
-        <mxCell id="h4-nOoXc8plys_sIoQbb-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=none;align=left;" value="&lt;b&gt;Kapabiliteter&lt;/b&gt;&lt;div&gt;&lt;b&gt;GSR28, lavbund maj 2026&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="h4-nOoXc8plys_sIoQbb-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=none;align=left;" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;GSR28, lavbund maj 2026&lt;/div&gt;&lt;b&gt;Kapabiliteter&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="1360" x="80" y="40" as="geometry" />
         </mxCell>
       </root>
